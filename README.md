@@ -8,7 +8,29 @@ To boot the system (RT-11) you need to have floppy controller connected and a fl
 
 Sometimes later an image of "HDD" had been provided. Look at `contrib/sys1002.dsk` file in the repo.
 
-## RT-11 drivers
+## Original drivers and utilitis
+
+There is `contrib/uknc_ide.rar` archive with original utilities and drivers developed by Oleg.H
+
+    Archive: uknc_ide.rar
+    Details: RAR 4
+
+     Attributes      Size     Date    Time   Name
+    ----------- ---------  ---------- -----  ----
+        I.A....     24576  2008-10-01 15:48  WDX.DOC
+        I.A....      8704  2008-09-28 23:06  WDMAN.LST
+        I.A....      3584  2008-10-04 20:21  KDAY.SAV
+        I.A....      2560  2008-10-03 22:44  WDBOOT.SAV
+        I.A....      1536  2008-10-01 15:51  WDR.SAV
+        I.A....     20992  2008-10-01 15:51  WDX.SAV
+        I.A....     20992  2008-10-01 15:51  WDXR.SAV
+        I.A....      1024  2008-10-01 15:51  WD.SYS
+        I.A....       939  2008-10-04 19:58  readme.txt
+    ----------- ---------  ---------- -----  ----
+                    84907                    9
+
+
+## RT-11 drivers by Form
 
 There are 2 files in contrib folder developed by [*form*](https://zx-pk.ru/members/4895-form.html) user of zx-pk forum.
 
